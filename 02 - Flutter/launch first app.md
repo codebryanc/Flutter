@@ -1,0 +1,1 @@
+rm -rf /Users/code.bryanc/development/flutter/bin/cache; flutter doctor -v 
